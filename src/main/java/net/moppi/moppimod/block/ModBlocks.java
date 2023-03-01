@@ -31,7 +31,7 @@ public class ModBlocks {
             new PillarBlock(FabricBlockSettings.copyOf(Blocks.OAK_WOOD).strength(4.0f).requiresTool()), ModItemGroup.CITRINE);
     public static final Block STRIPPED_RED_MAPLE_LOG = registerBlock("stripped_red_maple_log",
             new PillarBlock(FabricBlockSettings.copyOf(Blocks.STRIPPED_OAK_LOG).strength(4.0f).requiresTool()), ModItemGroup.CITRINE);
-    public static final Block STRIPPED_RED_MAPLE_WOOD = registerBlock("stipped_red_maple_wood",
+    public static final Block STRIPPED_RED_MAPLE_WOOD = registerBlock("stripped_red_maple_wood",
             new PillarBlock(FabricBlockSettings.copyOf(Blocks.STRIPPED_OAK_WOOD).strength(4.0f).requiresTool()), ModItemGroup.CITRINE);
 
     public static final Block RED_MAPLE_PLANKS = registerBlock("red_maple_planks",
