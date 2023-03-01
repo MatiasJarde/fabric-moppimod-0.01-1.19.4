@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "moppimod:red_maple_log",
+    "moppimod:red_maple_wood",
+    "moppimod:stripped_red_maple_log",
+    "moppimod:stripped_red_maple_wood"
+  ]
+}

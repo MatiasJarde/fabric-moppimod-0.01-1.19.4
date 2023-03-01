@@ -5,5 +5,14 @@
   "block.moppimod.citrine_ore": "Citrine Ore",
   "block.moppimod.deepslate_citrine_ore": "Deepslate Citrine Ore",
 
+  "block.moppimod.red_maple_log": "Red Maple Log",
+  "block.moppimod.red_maple_wood": "Red Maple Wood",
+  "block.moppimod.stripped_red_maple_log": "Stripped Red Maple Log",
+  "block.moppimod.stripped_red_maple_wood": "Stripped Red Maple Wood",
+  "block.moppimod.red_maple_planks": "Red Maple Planks",
+  "block.moppimod.red_maple_leaves": "Red Maple Leaves",
+  "block.moppimod.red_maple_sapling": "Red Maple Sapling",
+
+
   "itemgroup.citrine": "Citrine Item Group"
 }
