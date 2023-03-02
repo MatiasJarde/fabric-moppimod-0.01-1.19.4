@@ -19,6 +19,7 @@ public class ModLootTableGenerator extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.STRIPPED_RED_MAPLE_WOOD);
         addDrop(ModBlocks.STRIPPED_RED_MAPLE_LOG);
         addDrop(ModBlocks.RED_MAPLE_SAPLING);
+        addDrop(ModBlocks.DIAMOND_RAIL);
 
 
         addDrop(ModBlocks.CITRINE_ORE, oreDrops(ModBlocks.CITRINE_ORE, ModItems.RAW_CITRINE));

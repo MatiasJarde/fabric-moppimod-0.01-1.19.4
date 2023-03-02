@@ -23,6 +23,9 @@ public class ModRecipeGenerator extends FabricRecipeProvider {
     public void generate(Consumer<RecipeJsonProvider> exporter) {
         offerSmelting(exporter, List.of(ModItems.RAW_CITRINE), RecipeCategory.MISC, ModItems.CITRINE,
                 0.7f, 200, "citrine");
+        offerSmelting(exporter, List.of(ModBlocks.STRIPPED_RED_MAPLE_LOG, ModBlocks.STRIPPED_RED_MAPLE_WOOD,
+                        ModBlocks.RED_MAPLE_WOOD, ModBlocks.RED_MAPLE_PLANKS, ModBlocks.RED_MAPLE_LOG), RecipeCategory.MISC, Items.CHARCOAL,
+                0.2f, 200, "citrine");
 
         offerReversibleCompactingRecipes(exporter, RecipeCategory.BUILDING_BLOCKS, ModItems.CITRINE, RecipeCategory.DECORATIONS,
                 ModBlocks.CITRINE_BLOCK);
