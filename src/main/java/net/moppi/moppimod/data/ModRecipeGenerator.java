@@ -30,17 +30,6 @@ public class ModRecipeGenerator extends FabricRecipeProvider {
         offerReversibleCompactingRecipes(exporter, RecipeCategory.BUILDING_BLOCKS, ModItems.CITRINE, RecipeCategory.DECORATIONS,
                 ModBlocks.CITRINE_BLOCK);
 
-        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.RAW_CITRINE)
-                .pattern("SSS")
-                .pattern("SCS")
-                .pattern("SSS")
-                .input('S', Items.STONE)
-                .input('C', ModItems.CITRINE)
-                .criterion(FabricRecipeProvider.hasItem(Items.STONE),
-                        FabricRecipeProvider.conditionsFromItem(Items.STONE))
-                .criterion(FabricRecipeProvider.hasItem(ModItems.CITRINE),
-                        FabricRecipeProvider.conditionsFromItem(ModItems.CITRINE))
-                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.RAW_CITRINE)));
 
     }
 }

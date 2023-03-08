@@ -1,8 +1,7 @@
-// 1.19.3	2023-03-02T02:36:20.3583679	moppi Mod/Block Loot Tables
+// 1.19.3	2023-03-08T23:32:59.0691606	moppi Mod/Block Loot Tables
 fb860ddc19dcda10b9fed07982f13bc109f663b4 data\moppimod\loot_tables\blocks\stripped_red_maple_log.json
 bb0689bf6dd1b8d0f9b8dcb95b430d1348179802 data\moppimod\loot_tables\blocks\citrine_block.json
 4e1e9fc69dd105f5b3d9a743bd33b8827d4b5f33 data\moppimod\loot_tables\blocks\red_maple_planks.json
-7b502482f4f62ef5f9b080a009f542a98de571e4 data\moppimod\loot_tables\blocks\diamond_rail.json
 53ef901d2c65a3735917cb36c1040e6e894cc812 data\moppimod\loot_tables\blocks\red_maple_sapling.json
 8503f9a77160af623a958424204ca548c1501a0d data\moppimod\loot_tables\blocks\stripped_red_maple_wood.json
 bf985a4188b49f2462eabf290d199c8ed03e5054 data\moppimod\loot_tables\blocks\deepslate_citrine_ore.json

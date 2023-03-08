@@ -1,5 +1,4 @@
-// 1.19.3	2023-03-02T02:36:20.3418648	moppi Mod/Recipes
-beccf392c39958477fe10710009b176b84c9059e data\moppimod\advancements\recipes\misc\raw_citrine.json
+// 1.19.3	2023-03-08T23:32:59.06766	moppi Mod/Recipes
 b69ddc5ca319139f9a1f7a7a6da72cb949f0b3d8 data\moppimod\advancements\recipes\misc\charcoal_from_smelting_stripped_red_maple_wood.json
 80c7a9cde8eb9a9d7351442d109775bb1f3b221d data\moppimod\recipes\charcoal_from_smelting_red_maple_planks.json
 8fb92c5de48dc1645896aade442607c997136714 data\moppimod\recipes\citrine_from_smelting_raw_citrine.json
@@ -16,4 +15,3 @@ bbaccdd55c7ea81b9c71eb5f6f214cd1152d20b7 data\moppimod\advancements\recipes\misc
 485add314e4081d5d684d7c1eb8865be242b7240 data\moppimod\recipes\charcoal_from_smelting_red_maple_wood.json
 2bc7ec2c5270da07c8777877e39732919e23c31f data\moppimod\advancements\recipes\misc\citrine_from_smelting_raw_citrine.json
 1158a7d22da0b8cb1c77b0a7ac9e15170fcedd4a data\moppimod\recipes\citrine.json
-91cfe8d6af9f313d998c305454340b21699686fd data\moppimod\recipes\raw_citrine.json

@@ -39,9 +39,7 @@ public class ModBlocks {
     public static final Block RED_MAPLE_LEAVES = registerBlock("red_maple_leaves",
             new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(0.5f)), ModItemGroup.CITRINE);
     public static final Block RED_MAPLE_SAPLING = registerBlock("red_maple_sapling",
-            new SaplingBlock(new RedMapleSaplingGenerator(), FabricBlockSettings.copyOf(Blocks.OAK_SAPLING).strength(0.0f)), ModItemGroup.CITRINE);
-    public static final RailBlock DIAMOND_RAIL = (RailBlock) registerBlock("diamond_rail",
-            new RailBlock(FabricBlockSettings.copyOf(Blocks.POWERED_RAIL).strength(1.0f)), ModItemGroup.CITRINE);
+            new SaplingBlock(new RedMapleSaplingGenerator(), FabricBlockSettings.copyOf(Blocks.OAK_SAPLING).breakInstantly()), ModItemGroup.CITRINE);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup group) {

@@ -1,3 +1,5 @@
-// 1.19.3	2023-03-02T02:36:20.3503665	moppi Mod/moppimod
+// 1.19.3	2023-03-08T23:32:59.0686606	moppi Mod/moppimod
+4ab118888c508ec59259f42f56074cc988e4638f data\moppimod\worldgen\placed_feature\citrine_ore_placed.json
 1cce294235866e5308421bc1455946c56965a771 data\moppimod\worldgen\placed_feature\red_maple_placed.json
+c1b3ecca18ceb4e381b8692ea9c1f5fa41866f4e data\moppimod\worldgen\configured_feature\citrine_ore.json
 c45ae2b47b4c45eb306766a0aa2c5bcd68fd18db data\moppimod\worldgen\configured_feature\red_maple.json
